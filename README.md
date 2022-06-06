@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hopemashozhera
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open Box Competition
 - 📫 How to reach me hmashozhera@gmail
 
